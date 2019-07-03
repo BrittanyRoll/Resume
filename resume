@@ -1,0 +1,140 @@
+{
+  "firstname": "Brittany",
+  "lastname": "Rollins",
+  "contact": {
+    "email": "bmrollin@usc.edu",
+    "phone": "(347) 206-8041",
+    "linkedin": "www.linkedin.com/in/brittany-rollins-7b9280146",
+    "github": "https://github.com/BrittanyRoll"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "C++",
+          "HTML/CSS",
+          "Javascript",
+          "Processing",
+          "Python"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Machine Learning/AI",
+          "Web Development",
+          "Mobile",
+          "Product Management",
+          "User Experience"
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "items": [
+      {
+        "project_name": "chenshuiluke/ng-hackernews",
+        "tagline": "[ng-hackernews.lukecs.com](https://ng-hackernews.lukecs.com/)",
+        "description": [
+          "Browse HackerNews without having to open tabs to view comments or having to click to go to the next page."
+        ],
+        "technology_used": {
+          "tools": [
+            "Python",
+            "Django",
+            "PostgreSQL"
+          ]
+        }
+      },
+      {
+        "project_name": "AdiChat/Repository-Hunter",
+        "tagline": "[repository-hunter.herokuapp.com](http://repository-hunter.herokuapp.com/)",
+        "description": [
+          "Making GitHub more socially engaging and fun for all"
+        ],
+        "technology_used": {
+          "tools": [
+            "Python",
+            "Django",
+            "PostgreSQL"
+          ]
+        }
+      }
+    ]
+  },
+  "other_projects": {
+    "items": [
+      {
+        "headline": "Designed prototype for jewelry that would detect date-rape drug in drinks.",
+        "points": [
+          "Was awarded 3<sup>rd</sup> place in citywide Innovention competition"
+        ],
+        "technology_used": {
+          "tools": [
+            "C++"
+          ]
+        }
+      }
+    ]
+  },
+  "involvement": {
+    "organizations": [
+      "USC Joint Educational Program, Volunteer, Los Angeles, CA, Fall 2018",
+      "Center for Artificial Intelligence in Society Student Branch, Club Member, in depth machine learning curriculum and will later on complete a long-term project that will use AI to solve crucial current issues, Fall 2018 to Present",
+      "Girls Who Code, Participant, Summer 2017"
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Awarded quarter tuition Deans Scholarship by USC, March 2018",
+      "AP Scholar, July 2017",
+      "Citizenship Award awarded by Nightingale-Bamford School, June 2017"
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent), French (proficient)",
+      "Interests: Skateboarding, Traveling, Fitness."
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science and Business Administration",
+        "institution": "University of Southern California",
+        "graduation_year": 2022
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "Introduction to Programming",
+      "url": "http://bytes.usc.edu/cs103/syllabus/"
+    },
+    {
+      "name": "Introduction to Computing",
+      "url": "http://bytes.usc.edu/cs109/syllabus/"
+    }
+  ],
+  "research_experience": {
+    "items": [
+      {
+        "title": "Summer Lab Assistant",
+        "organization": "Viterbi Summer Institute/Computer Science Department at USC, University of Southern California",
+        "from": "July 2018",
+        "to": "August 2018",
+        "points": [
+          "Assisted in research of variable interactions in machine learning"
+        ]
+      }
+    ]
+  },
+  "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_1": true,
+    "optional_assessment_2": true,
+    "optional_assessment_3": true
+  }
+}
